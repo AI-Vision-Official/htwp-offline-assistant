@@ -1,0 +1,38 @@
+[
+ {"id":"fire","priority":100,"reviewed":false,
+  "keywords":["fire","smoke","burning","flames","brand","rook","vuur"],
+  "title":{"en":"Fire or smoke","nl":"Brand of rook"},
+  "steps":{
+   "en":["Get out of the building now. Do not stop for belongings.","If there is smoke, stay low, where the air is clearer.","Do not use lifts. Use the stairs.","Once you are outside, call {NUM}. Do not go back in."],
+   "nl":["Ga nu het gebouw uit. Neem geen spullen mee.","Bij rook: blijf laag, daar is de lucht beter.","Gebruik geen lift. Neem de trap.","Bel buiten {NUM}. Ga niet terug naar binnen."]}},
+ {"id":"bleeding","priority":100,"reviewed":false,
+  "keywords":["bleed","blood","bloed","bloedt","bloeden"],
+  "title":{"en":"Bleeding","nl":"Bloeding"},
+  "steps":{
+   "en":["Press hard on the wound with a clean cloth or your hand. Keep pressing.","Do not take the cloth away. If blood soaks through, add more cloth on top and keep pressing.","Call {NUM} now, or ask someone nearby to call.","Help the person lie down. Keep pressing until help arrives."],
+   "nl":["Druk stevig op de wond met een schone doek of je hand. Blijf drukken.","Haal de doek niet weg. Wordt hij doorweekt, leg er meer doek bovenop en blijf drukken.","Bel nu {NUM}, of vraag iemand in de buurt te bellen.","Laat de persoon liggen. Blijf drukken tot er hulp is."]}},
+ {"id":"earthquake","priority":90,"reviewed":false,
+  "keywords":["earthquake","shaking","aardbeving","trilling","trilt"],
+  "title":{"en":"Earthquake","nl":"Aardbeving"},
+  "steps":{
+   "en":["If the ground is still shaking: get down on hands and knees, cover your head and neck, and hold on.","Stay away from windows and things that can fall.","When it stops, check yourself and people near you for injuries.","Leave a damaged building carefully and go to an open area. Expect more shaking later."],
+   "nl":["Beweegt de grond nog? Ga op handen en knieën, bescherm je hoofd en nek en houd je vast.","Blijf weg van ramen en dingen die kunnen vallen.","Als het stopt: controleer jezelf en mensen om je heen op verwondingen.","Verlaat een beschadigd gebouw voorzichtig en ga naar open ruimte. Er kan later weer gebeuren."]}},
+ {"id":"flood","priority":90,"reviewed":false,
+  "keywords":["flood","water rising","overstroming","wateroverlast","hoogwater"],
+  "title":{"en":"Flood","nl":"Overstroming"},
+  "steps":{
+   "en":["Move to higher ground now. Do not wait for the water to reach you.","Never walk, swim or drive through floodwater. It can be deeper and faster than it looks.","Stay away from power lines and anything electrical near water.","Call {NUM} if you or someone else cannot get to safety."],
+   "nl":["Ga nu naar hoger gelegen grond. Wacht niet tot het water er is.","Loop, zwem of rijd nooit door vloedwater. Het kan dieper en sneller zijn dan je denkt.","Blijf weg van stroomkabels en elektrische apparaten bij water.","Bel {NUM} als jij of iemand anders zich niet in veiligheid kan brengen."]}},
+ {"id":"water","priority":60,"reviewed":false,
+  "keywords":["drinking water","no water","geen water","drinkwater","thirsty","dorst"],
+  "title":{"en":"No safe drinking water","nl":"Geen veilig drinkwater"},
+  "steps":{
+   "en":["Use sealed bottled water if you have it.","If your water looks cloudy, let it settle and pour it through a clean cloth.","Then boil it until it bubbles strongly for at least 1 minute. Let it cool and keep it covered.","If you cannot boil it, use water purification tablets as the packet says.","Drink small amounts often. Keep the safest water for drinking."],
+   "nl":["Gebruik gesloten flessenwater als je dat hebt.","Is je water troebel, laat het bezinken en giet het door een schone doek.","Kook het daarna minstens 1 minuut flink door. Laat afkoelen en houd het afgedekt.","Kun je niet koken? Gebruik zuiveringstabletten volgens de verpakking.","Drink vaak kleine slokjes. Bewaar het veiligste water om te drinken."]}},
+ {"id":"panic","priority":30,"reviewed":false,
+  "keywords":["scared","panic","afraid","bang","paniek","angst","don't know what to do","weet niet"],
+  "title":{"en":"Scared or panicking","nl":"Bang of in paniek"},
+  "steps":{
+   "en":["You are not alone in feeling this. Let's do one small thing together.","Breathe in slowly through your nose for 4 seconds.","Breathe out slowly for 6 seconds. Do this 5 times.","Look around you. Name 3 things you can see.","If anyone is hurt or in danger, tell me and I will show you what to do."],
+   "nl":["Je bent niet de enige die dit voelt. Laten we samen één klein ding doen.","Adem langzaam in door je neus, 4 seconden.","Adem langzaam uit, 6 seconden. Doe dit 5 keer.","Kijk om je heen. Noem 3 dingen die je ziet.","Is er iemand gewond of in gevaar? Vertel het me, dan laat ik zien wat je kunt doen."]}}
+]
